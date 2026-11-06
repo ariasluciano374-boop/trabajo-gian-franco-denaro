@@ -1,6 +1,9 @@
 Documentación del Sistema de Gestión de Préstamos de Pañol Escolar
-Sistema elegido: Opción A – Gestión de Préstamos de Pañol Escolar (control de stock e inventario, entregas y devoluciones a alumnos, historial de estado de herramientas y reporte de insumos dañados).
-Apartado 1: Marco Conceptual y Clasificación
+
+
+Sistema elegido: Gestión de Préstamos de Pañol Escolar (control de stock e inventario, entregas y devoluciones a alumnos, historial de estado de herramientas y reporte de insumos dañados).
+
+ 1: Marco Conceptual y Clasificación
 1.1 Documentación de Usuario vs. Documentación Técnica
 Documentación de Usuario. Es el material que explica cómo usar el sistema para cumplir una tarea concreta.
 Audiencia: quienes operan el sistema a diario (pañolero, docentes, preceptores, alumnos), sin necesidad de conocimientos informáticos.
